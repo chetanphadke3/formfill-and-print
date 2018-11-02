@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34515" started-at="2018-11-02T11:20:53Z" finished-at="2018-11-02T11:21:28Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="34515" started-at="2018-11-02T11:20:53Z" finished-at="2018-11-02T11:21:28Z">
+      <class name="testcases.AvaformSubmission">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:testcases.AvaformSubmission@174d20a]" name="beforeTest" is-config="true" duration-ms="12779" started-at="2018-11-02T16:50:53Z" finished-at="2018-11-02T16:51:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="avaforSubmission()[pri:0, instance:testcases.AvaformSubmission@174d20a]" name="avaforSubmission" duration-ms="20926" started-at="2018-11-02T16:51:06Z" finished-at="2018-11-02T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avaforSubmission -->
+        <test-method status="PASS" signature="afterTest(java.lang.String)[pri:0, instance:testcases.AvaformSubmission@174d20a]" name="afterTest" is-config="true" duration-ms="801" started-at="2018-11-02T16:51:27Z" finished-at="2018-11-02T16:51:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testcases.AvaformSubmission -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
