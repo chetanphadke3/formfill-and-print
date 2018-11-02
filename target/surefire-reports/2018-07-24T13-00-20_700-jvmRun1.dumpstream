@@ -1,0 +1,221 @@
+# Created at 2018-07-24T13:00:24.527
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-07-24T13:00:33.002
+Unexpected IOException with stream: Total No of Rows- 25
+
+
+# Created at 2018-07-24T13:00:33.007
+Unexpected IOException with stream: Total No of Columns- 1
+
+
+# Created at 2018-07-24T13:00:33.169
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.202
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.256
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.278
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.297
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.322
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.339
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.358
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.367
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.378
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.392
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.404
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.415
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.425
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.435
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.444
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.453
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.462
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.470
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.479
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.490
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.498
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.507
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.517
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.528
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.538
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.546
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.555
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.564
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.574
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.584
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.596
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.606
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.615
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.624
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.634
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.643
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.652
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.661
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.670
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.678
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.687
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.699
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.708
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.715
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.725
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.733
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.743
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:33.753
+Unexpected IOException: 5,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),testcases.AvaformSubmission,null,null
+
+
+# Created at 2018-07-24T13:00:33.762
+Unexpected IOException: 8,1,testcases.AvaformSubmission,loginTest(testcases.AvaformSubmission),null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,null,Unresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A,AvaformSubmission.loginTest:86  Unresolved compilation problem: \000A\0009length canno...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009length cannot be resolved or is not a field\000A\000A\0009at testcases.AvaformSubmission.loginTest(AvaformSubmission.java:86)\000A
+
+
+# Created at 2018-07-24T13:00:34.110
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
